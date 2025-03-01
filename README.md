@@ -19,6 +19,7 @@ Transmission: Manual or automatic
 Selling_Price: Target Variable - Price at which the car was sold
 
 ⚙️ Project Workflow
+
 1. Data Preprocessing
 Dropped unnecessary columns (Car_Name)
 Converted categorical variables to numerical using One-Hot Encoding
