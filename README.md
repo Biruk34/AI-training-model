@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction Using Deep Learning
+# Car Price Prediction Using Deep Learning
 Author: Biruk Tamiru 
 Tools Used: PyTorch, Pandas, Scikit-Learn, NumPy
 
@@ -45,15 +45,15 @@ Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 R² Score (R-Squared) to measure model performance
 
-📌 Results
+Results
 After training, the model achieves:
-✅ Low MAE & MSE – indicating accurate predictions
-✅ High R² Score (~0.98) – meaning the model explains 98% of variance in selling prices
+Low MAE & MSE – indicating accurate predictions
+High R² Score (~0.98) – meaning the model explains 98% of variance in selling prices
 
-🔧 Future Improvements
+Future Improvements
 Try other ML models (Random Forest, XGBoost)
 Deploy as a web app using Streamlit
 Optimize model with hyperparameter tuning
 
-📜 License
+License
 This project is open-source under the MIT License.
