@@ -2,10 +2,10 @@
 Author: Biruk Tamiru 
 Tools Used: PyTorch, Pandas, Scikit-Learn, NumPy
 
-📌 Project Overview
+Project Overview
 This project builds a deep learning model to predict used car prices based on various features like year, kilometers driven, fuel type, and transmission type. The dataset is preprocessed, transformed, and trained using a neural network in PyTorch.
 
-📊 Dataset
+Dataset
 The dataset used is "car data.csv" and contains the following columns:
 
 Car_Name: Name of the car (Removed during preprocessing)
@@ -17,7 +17,6 @@ Fuel_Type: Type of fuel (Petrol/Diesel/CNG)
 Seller_Type: Individual or dealership
 Transmission: Manual or automatic
 Selling_Price: Target Variable - Price at which the car was sold
-
 
 ⚙️ Project Workflow
 
