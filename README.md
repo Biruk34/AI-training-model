@@ -39,7 +39,7 @@ Used Mean Squared Error (MSE) Loss
 Optimized using Adam Optimizer
 Trained for 1000 epochs
 
-5. Model Evaluation
+5.Model Evaluation
 Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 R² Score (R-Squared) to measure model performance
